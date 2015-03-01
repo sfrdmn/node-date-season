@@ -1,0 +1,44 @@
+{
+  "name": "date-season",
+  "version": "0.0.1",
+  "description": "Takes a date and returns its season.",
+  "main": "index.js",
+  "scripts": {
+    "test": "testling | tap-colorize"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sfrdmn/node-date-season"
+  },
+  "keywords": [
+    "date",
+    "season"
+  ],
+  "author": "Sean Fridman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sfrdmn/node-date-season/issues"
+  },
+  "homepage": "https://github.com/sfrdmn/node-date-season",
+  "testling": {
+    "files": "test/*.js",
+    "browsers": [
+      "ie/8..latest",
+      "firefox/17..latest",
+      "firefox/nightly",
+      "chrome/22..latest",
+      "chrome/canary",
+      "opera/12..latest",
+      "opera/next",
+      "safari/5.1..latest"
+    ]
+  },
+  "devDependencies": {
+    "tape": "^3.5.0",
+    "tap-colorize": "^1.2.0",
+    "testling": "^1.7.1"
+  },
+  "dependencies": {
+    "moonbeams": "^1.3.0"
+  }
+}

@@ -5,6 +5,8 @@ Author: Sean Fridman
 
 License: MIT
 
+[![testling badge](https://ci.testling.com/sfrdmn/node-date-season.png)](https://ci.testling.com/sfrdmn/node-date-season)
+
 
 Description
 ---

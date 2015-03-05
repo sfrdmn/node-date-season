@@ -4,7 +4,8 @@
   "description": "Takes a date and returns its season.",
   "main": "index.js",
   "scripts": {
-    "test": "testling | tap-colorize"
+    "test": "testling | tap-colorize",
+    "test-local": "tape test/*.js | tap-colorize"
   },
   "repository": {
     "type": "git",

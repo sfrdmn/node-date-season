@@ -1,1 +1,1 @@
-modules.exports = require('lib/date-season.js')
+module.exports = require('./lib/date-season.js')

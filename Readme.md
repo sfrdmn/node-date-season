@@ -5,6 +5,8 @@ Author: Sean Fridman
 
 License: MIT
 
+[![build status](https://secure.travis-ci.org/sfrdmn/node-date-season.png)](http://travis-ci.org/sfrdmn/node-date-season)
+
 [![testling badge](https://ci.testling.com/sfrdmn/node-date-season.png)](https://ci.testling.com/sfrdmn/node-date-season)
 
 

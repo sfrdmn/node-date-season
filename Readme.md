@@ -9,6 +9,8 @@ License: MIT
 
 [![testling badge](https://ci.testling.com/sfrdmn/node-date-season.png)](https://ci.testling.com/sfrdmn/node-date-season)
 
+[![js-standard-style](https://raw.githubusercontent.com/feross/standard/master/badge.png)](https://github.com/feross/standard)
+
 
 Description
 ---

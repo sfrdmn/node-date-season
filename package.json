@@ -4,7 +4,7 @@
   "description": "Takes a date and returns its season.",
   "main": "index.js",
   "scripts": {
-    "test": "tape test/*.js | tap-colorize"
+    "test": "standard && tape test/*.js | tap-colorize"
   },
   "repository": {
     "type": "git",
@@ -34,8 +34,9 @@
     ]
   },
   "devDependencies": {
-    "tape": "^3.5.0",
+    "standard": "^3.0.0-beta",
     "tap-colorize": "^1.2.0",
+    "tape": "^3.5.0",
     "testling": "^1.7.1"
   },
   "dependencies": {

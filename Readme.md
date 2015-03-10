@@ -43,3 +43,11 @@ var seasonSouth = createSeasonResolver({ north: false, autumn: true })
 seasonSouth('2015-12-25') // 'Summer'
 ```
 
+Or a bit more idiomatic:
+
+```Javascript
+var season = require('date-season')()
+
+season('2015-12-25') // 'Winter'
+```
+
